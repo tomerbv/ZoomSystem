@@ -1,2 +1,2 @@
 # ZoomSystem
-Exercise in the course "Advanced Programming", OOP in c++(Linux). Implementation of a system that simulates the video calling software "Zoom". Rooms and students, where students can perform actions according to their type.
+As part of advanced programming course I have implemented a Zoom simulation system, which is an OOP assignment in c++ (Linux). The system contains an abstract rooms class and an abstract student class. these two classes both have different types of sub classes that extend them so that the system can inforce the different functionallity and permissions and integrate propperly while maintaining and efficient design pattern.
